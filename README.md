@@ -27,3 +27,4 @@ CSS: For styling and layout.
 JavaScript: For interactive features and functionality.
 
 output: 
+![Image](https://github.com/user-attachments/assets/374f2c14-d86c-4116-b760-3b07014fbcc3)
