@@ -28,3 +28,5 @@ JavaScript: For interactive features and functionality.
 
 output: 
 ![Image](https://github.com/user-attachments/assets/374f2c14-d86c-4116-b760-3b07014fbcc3)
+
+![Image](https://github.com/user-attachments/assets/0280988a-7418-4b5c-98c7-54dfaa92ee6f)
